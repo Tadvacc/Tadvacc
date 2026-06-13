@@ -1,14 +1,16 @@
-### Hi there, I am Tadeu! 👋
+Hi there, I’m Tadeu! 👋
 
-Let me introduce myself. 
+I am a passionate and curious technology enthusiast with a strong interest in software development, cybersecurity, and building practical solutions through code.
 
-I am a very happy person who likes to engage in new adventures, discovering new technologies, and looking to learn more and more every day. Tell me to do a task and I will do my best to give you the best solution.
+I hold a BSc in Computing and IT (Software) and I am currently studying towards my MSc in Cyber Security. I enjoy learning new technologies, exploring new challenges, and continuously improving my skills.
 
-I am studying BSc Computing and It, and I am working on different projects at the same time.
+My goal is to become a strong Software Engineer and Cyber Security professional, contributing to meaningful projects that solve real-world problems for businesses and users.
 
-I started coding a few years ago, and now I love coding. I am looking forward to becoming a Software Engineer and bring solutions to every enterprise.
+I have experience working with programming, web development, APIs, databases, and software projects, and I am currently expanding my knowledge in cybersecurity, secure software development, and cloud-based applications.
 
-I like outside activities such as fishing, cycling, stand-up and such. I also like playing games on consoles, and the PC. I enjoy going out and meet people, but I will rather be with my wife and some close friends on a night out on the beach with a bonfire and some good wine.
+I enjoy working on personal projects, experimenting with new tools, and turning ideas into functional applications. I believe that every challenge is an opportunity to learn, grow, and create something better.
+
+I am always open to learning, collaborating, and building solutions that make a difference.
 
 
 
